@@ -1,0 +1,12 @@
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\bin\Debug\net6.0\Umfg.Dominio.deps.json
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\bin\Debug\net6.0\Umfg.Dominio.dll
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\bin\Debug\net6.0\Umfg.Dominio.pdb
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\obj\Debug\net6.0\Umfg.Dominio.csproj.AssemblyReference.cache
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\obj\Debug\net6.0\Umfg.Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\obj\Debug\net6.0\Umfg.Dominio.AssemblyInfoInputs.cache
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\obj\Debug\net6.0\Umfg.Dominio.AssemblyInfo.cs
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\obj\Debug\net6.0\Umfg.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\obj\Debug\net6.0\Umfg.Dominio.dll
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\obj\Debug\net6.0\refint\Umfg.Dominio.dll
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\obj\Debug\net6.0\Umfg.Dominio.pdb
+C:\Users\Vinícius\Desktop\15-05-2023\Umfg.ProgramacaoIV.Testes.Unitario.15.05.2023\Umfg.Dominio\obj\Debug\net6.0\ref\Umfg.Dominio.dll
